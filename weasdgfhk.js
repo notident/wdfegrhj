@@ -46,3 +46,5 @@ volumeKnob.addEventListener('wheel', handleVolumeChange);
 
 // Initialize the volume knob rotation to the initial volume
 volumeKnob.dataset.rotation = volumeControl.value * 3.6;
+
+
